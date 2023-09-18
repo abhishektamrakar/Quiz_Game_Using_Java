@@ -24,3 +24,7 @@ When the user gives view command to the system, the viewQuiz() method is trigger
 listQuiz():
 
 When the user gives list command to the system, the listQuiz() method is invoked. This method displays the list of all quiz topics that are available in the game.
+
+
+Output:
+![Picture1-1024x543](https://github.com/abhishektamrakar/Quiz_Game_Using_Java/assets/88223580/afe17e06-dde3-4724-9ad6-2b51d12f75ad)
